@@ -1,0 +1,15 @@
+.appContainer {
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(149,15,99);
+    margin: 0px;
+    height: 60px;
+    line-height: 60px;
+    color: white;
+}
+
+body {
+    margin: 0px;
+}

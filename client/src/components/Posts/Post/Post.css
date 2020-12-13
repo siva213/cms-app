@@ -1,0 +1,19 @@
+.PostContainer {
+    height: 300px;
+    width: 300px;
+    border: 1px solid rgb(149,15,99);
+    margin: 20px;
+    cursor: pointer;
+}
+
+.TitleSection {
+    background-color: rgb(149,15,99);
+    height: 60px;
+    margin: 0px;
+}
+
+h4 {
+    display: inline-table;
+    vertical-align: middle;
+    color: white;
+}
